@@ -6,7 +6,7 @@ TBA
 
 # Program
 
-Saturday, April 25th, 2026
+Saturday, April 25th, 2026<br>
 Room 141 (Main conference room), Arts Research Building (1F), Kanazawa-Hakkei Campus of Yokohama City University
 
 ### Oral Session
@@ -34,6 +34,6 @@ TBA
 
 ## Acknowledgment
 
-This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html) and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html),
-sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/English/index.html) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021),
-and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)
+This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html) and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html),<br>
+sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/English/index.html) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021),<br>
+and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)<br>
