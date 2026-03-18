@@ -17,6 +17,7 @@ Room 141 (Main conference room), Arts Research Building (1F), Kanazawa-Hakkei Ca
 |||
 
 ### Poster Session
+
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 17:XX | 17:XX | TBA |
