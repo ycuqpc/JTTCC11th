@@ -9,13 +9,7 @@ TBA
 Saturday, April 25th, 2026
 Room 141 (Main conference room), Arts Research Building (1F), Kanazawa-Hakkei Campus of Yokohama City University
 
-### Opening Remarks
-
-| Start | End   |         |
-| :---: | :---: | :------ |
-| 9:XX | 9:XX | TBA |
-
-### Oral Session 1
+### Oral Session
 
 | Start | End   |         |
 | :---: | :---: | :------ |
