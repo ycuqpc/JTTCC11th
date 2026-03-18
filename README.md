@@ -1,11 +1,8 @@
-We hold this workshop in Kanazawa-Hakkei Campus of Yokohama City University on April 25th, 2026. This event will have oral presentations by by invited speakers form Japan and Thailand. We look forward to productive discussions.
+We hold this workshop in Kanazawa-Hakkei Campus of Yokohama City University on April 25th, 2026. This event will have both oral and poster presentations by invited speakers form Japan and Thailand. We look forward to productive discussions.
 
 # Registration
 
-| Date | ToDo |
-| :--- | :--- |
-| April XXth | Deadline for Registration <br> https://forms.office.com/ |
-| April XXth | Deadline for Submission of Titles <br> https://forms.office.com/ |
+TBA
 
 # Program
 
@@ -17,50 +14,19 @@ Room 141 (Main conference room), Arts Research Building (1F), Kanazawa-Hakkei Ca
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 9:XX | 9:XX | TBA |
+
+### Oral Session 1
+
+| Start | End   |         |
+| :---: | :---: | :------ |
 | 9:XX | 9:XX | TBA |
-
-### Session 1
-
-Chair: **XXX** (XXX)
-
-| Start | End   |         |
-| :---: | :---: | :------ |
-| XX:XX | XX:XX | TBA |
-| XX:XX | XX:XX | TBA |
-
-### Session 2
-
-Chair: **XXX** (XXX)
-
-| Start | End   |         |
-| :---: | :---: | :------ |
-| XX:XX | XX:XX | TBA |
-| XX:XX | XX:XX | TBA |
-
-### Session 3
-
-Chair: **XXX** (XXX)
-
-| Start | End   |         |
-| :---: | :---: | :------ |
-| XX:XX | XX:XX | TBA |
-| XX:XX | XX:XX | TBA |
+|||
 
 ### Poster Session
-
-Each poster board is XXcm x XXcm (width x height).
-
-| No. | Name | Title |
-| :-- | :--- | :---- |
-|  1 | XXX | TBA |
-|  2 | XXX | TBA |
-
-### Closing Remarks
-
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 18:20 | 18:30 | **Closing remarks**<br>by Prof. **XXX** (Dean, Yokohama City University, Japan) |
-| 18:30 |       | Meeting to exchange opinions |
+| 17:XX | 17:XX | TBA |
+|||
 
 # Access
 
@@ -70,10 +36,11 @@ Each poster board is XXcm x XXcm (width x height).
 
 ## Organizers
 
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
+TBA
 
 ## Acknowledgment
 
 This project was supported by the XXX.
+This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html) and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html),
+sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/English/index.html)<br>and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021),
+and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)
