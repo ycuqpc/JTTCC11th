@@ -4,10 +4,10 @@ remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
 plugins:
 - jekyll-remote-theme
 
-title: This is draft!
+title: 11th JTTCC
 email: 
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
-copyright: "© 2024 {author}"
+copyright: "© 2026 {author}"
 description: "description description description description description description description description description description"
 # favicon: "./favicon.svg"
 night_mode: "manual"
