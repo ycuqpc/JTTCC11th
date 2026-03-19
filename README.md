@@ -23,6 +23,9 @@ Room 141 (Main conference room), Arts Research Building (1F), Kanazawa-Hakkei Ca
 | 17:XX | 17:XX | TBA |
 |||
 
+# Venue
+Room 141 (Main conference room), Arts Research Building 1F, Kanazawa-Hakkei Campus of Yokohama City University
+
 # Access
 
 [Kanazawa-Hakkei Campus of Yokohama City University](https://goo.gl/maps/UwE5dQeStBsi8jVu5) is a 5-minutes walk from [Kanazawa-Hakkei Station](https://maps.app.goo.gl/mWU5TP94mPia5UZX8) of [Keikyu line](https://www.haneda-tokyo-access.com/en/).
@@ -35,7 +38,7 @@ TBA
 
 ## Acknowledgment
 
-This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html) and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html),<br>
+This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html), [Graduate School of Medical Life Science (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/mls/index.html), and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html),<br>
 sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/English/index.html) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021),<br>
 and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)<br>
 <img src="./fig2.png">
