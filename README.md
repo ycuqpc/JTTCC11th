@@ -7,7 +7,6 @@ TBA
 # Program
 
 Saturday, April 25th, 2026<br>
-Room 141 (Main conference room), Arts Research Building (1F), Kanazawa-Hakkei Campus of Yokohama City University
 
 ### Oral Session
 
