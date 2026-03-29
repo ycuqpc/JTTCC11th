@@ -23,7 +23,7 @@ Saturday, April 25th, 2026<br>
 |||
 
 # Venue
-Room 141 (Main conference room), Arts Research Building 1F, Kanazawa-Hakkei Campus of Yokohama City University
+Room 141 (Main conference room), Arts Research Building 1F, Kanazawa-Hakkei Campus of Yokohama City University<br>
 日本語：　横浜市立大学金沢八景キャンパス　文科系研究棟1階　大会議室
 
 # Access
@@ -38,5 +38,5 @@ TBA
 
 ## Acknowledgment
 
-This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html), [Graduate School of Medical Life Science (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/mls/index.html), and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html), sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/English/index.html) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021), and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)<br>
+This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html), [Graduate School of Medical Life Science (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/mls/index.html), and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/theme/2024/vol014.html), sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021), and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)<br>
 <img src="./fig2.png">
