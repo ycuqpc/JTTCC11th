@@ -24,6 +24,7 @@ Saturday, April 25th, 2026<br>
 
 # Venue
 Room 141 (Main conference room), Arts Research Building 1F, Kanazawa-Hakkei Campus of Yokohama City University
+日本語：　横浜市立大学金沢八景キャンパス　文科系研究棟1階　大会議室
 
 # Access
 
