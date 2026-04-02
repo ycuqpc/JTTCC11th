@@ -17,7 +17,7 @@ defaults:
   home:
     heading: "11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026"
     subheading: "April 25th, 2026 in Kanazawa-Hakkei Campus of Yokohama City University"
-    banner: "./home4.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
+    banner: "./home0.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
 
 banner:
   # video: null             # Video banner source
