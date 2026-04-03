@@ -19,15 +19,16 @@ Details will be announced as soon as they are fixed.<br>
 
 | Start | End   |         |
 | :---: | :---: | :------ |
+| 9:00 (tentative) | 9:XX | **Opening remarks**<br>by Chair of the Organizing Comittee (Yokohama City University, Japan) |
 | 9:XX | 9:XX | TBA |
 |||
 
-### Poster Session
+### Poster Session (&amp; Conference Mixer)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 17:XX | 17:XX | TBA |
-|||
+| 17:00 | 18:30 | (A tentative schedule) |
+| 18:30 | 21:00 | Conference Mixer |
 
 # Venue
 
