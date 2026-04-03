@@ -2,11 +2,18 @@
 
 # Registration
 
-Coming soon
+Registration fees: Free<br>
+If you will join the conference mixer (with a light meal and drinks), a participation fee 3,000 JPY will be applied to a non-student participant (student: free).<br>
+
+Please fill out this <b>[registration form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Zm1jvv7LuEGJXO5cvYvHVc-tcGV_kUpJmdA27Dig3FpUMjlEWDFQQVhaTkIzQUkwTDc1S1g1QzRNSi4u)</b> by <b>April 15, 2026</b>.<br>
+
+If you are an invited speaker, you do not have to use this registration form.
 
 # Program
 
-Saturday, April 25th, 2026<br>
+<b>Saturday, April 25th, 2026</b><br>
+
+Details will be announced as soon as they are fixed.<br>
 
 ### Oral Session
 
@@ -23,12 +30,24 @@ Saturday, April 25th, 2026<br>
 |||
 
 # Venue
+
+### Oral Session
 Room 141 (Main conference room), Arts Research Building 1F<br>
 Kanazawa-Hakkei Campus, Yokohama City University<br>
 Yokohama, Japan<br>
 <br>
 横浜市立大学 (金沢八景キャンパス)<br>
 文科系研究棟1階　大会議室
+
+### Poster Session
+Entrance hall (1F), Science Research Building<br>
+Kanazawa-Hakkei Campus, Yokohama City University<br>
+Yokohama, Japan<br>
+<br>
+横浜市立大学 (金沢八景キャンパス)<br>
+理学系研究棟1階　エントランスホール<br>
+<br>
+Note that the venue is subject to change.
 
 # Access
 
@@ -38,9 +57,9 @@ Yokohama, Japan<br>
 
 ## Local Organizing Committee
 
-Dean and Prof. Masanori TACHIKAWA (Graduate School of Nanobioscience, YCU) and [Quantum Physical Chemistry Laboratory, YCU](https://www-user.yokohama-cu.ac.jp/~tachi/en/)
+Dean and Prof. Masanori TACHIKAWA (Graduate School of Nanobioscience, Yokohama City University) and [Quantum Physical Chemistry Laboratory, Yokohama City University](https://www-user.yokohama-cu.ac.jp/~tachi/en/).
 
 ## Acknowledgment
 
-This workshop is organized by the [Graduate School of NanoBioScience (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html), [Graduate School of Medical Life Science (YCU)](https://www.yokohama-cu.ac.jp/english/academics/graduate/mls/index.html), and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/en/theme/2025/vol016.html), sponsored by [SPRING program (YCU)](https://www.yokohama-cu.ac.jp/spring/English/About_SPRING.html) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://ycuqpc.github.io/kibanS-25H00428/), and supported by the [International Affairs Office (YCU)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and [Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)](https://lambda.phys.tohoku.ac.jp/qm-science/en/)<br>
+This workshop is organized by the [Graduate School of NanoBioScience (Yokohama City University)](https://www.yokohama-cu.ac.jp/english/academics/graduate/nanobio/index.html), [Graduate School of Medical Life Science (Yokohama City University)](https://www.yokohama-cu.ac.jp/english/academics/graduate/mls/index.html), and [NEXUS (JST)](https://www.jst.go.jp/aspire/nexus/y-tec/en/theme/2025/vol016.html), sponsored by [SPRING program (Yokohama City University)](https://www.yokohama-cu.ac.jp/spring/English/About_SPRING.html) and [Grant-in-Aid for Scientific Research(S) (MEXT, KAKENHI)](https://ycuqpc.github.io/kibanS-25H00428/), and supported by the [International Affairs Office (Yokohama City University)](https://www.yokohama-cu.ac.jp/english/global/international/index.html) and [Grant-in-Aid for Transformative Research Areas (A) (MEXT, KAKENHI)](https://lambda.phys.tohoku.ac.jp/qm-science/en/).<br>
 <img src="./fig2.png">
