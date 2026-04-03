@@ -39,7 +39,7 @@ Yokohama, Japan<br>
 横浜市立大学 (金沢八景キャンパス)<br>
 文科系研究棟1階　大会議室
 
-### Poster Session
+### Poster Session &amp; Conference Mixer
 Entrance hall (1F), Science Research Building<br>
 Kanazawa-Hakkei Campus, Yokohama City University<br>
 Yokohama, Japan<br>
