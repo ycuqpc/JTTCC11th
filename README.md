@@ -1,5 +1,6 @@
 <b>The 11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026 (JTTCC11)</b> will be held on <b>April 25, 2026</b> in an in-person form, at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There will be oral and poster sessions. Oral presentations will be given by invited speakers (we will accept no contributed talks), however, <b>[we are now calling for poster presenters](https://ycuqpc.github.io/JTTCC11th/#registration)</b>. We look forward to productive discussions.
 
+
 # Registration
 
 Registration fees: Free<br>
@@ -9,26 +10,87 @@ Please fill out this <b>[registration form](https://forms.cloud.microsoft/Pages/
 
 If you are an invited speaker, you do not have to use this registration form.
 
+
 # Program
 
 <b>Saturday, April 25th, 2026</b><br>
 
-Details will be announced as soon as they are fixed.<br>
+This schedule is still tentative. Details will be updated as soon as they are fixed.<br>
 
-### Oral Session
-
-| Start | End   |         |
-| :---: | :---: | :------ |
-| 9:00 (tentative) | 9:XX | **Opening remarks**<br>by Chair of the Organizing Comittee (Yokohama City University, Japan) |
-| 9:XX | 9:XX | TBA |
-|||
-
-### Poster Session (&amp; Conference Mixer)
+### Opening Remarks
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 17:00 | 18:30 | (A tentative schedule) |
-| 18:30 | 21:00 | Conference Mixer |
+| 9:30 | 9:40 | **Welcome to YCU**<br>by Prof. **Mitsunori Ikeguchi** (Yokohama City University, Japan) |
+| 9:40 | 9:50 | **Welcome to Workshop**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
+
+### Oral Session 1
+
+Chair: TBA
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+|  9:50 | 10:15 | **Daisuke Yoshida** (Tohoku University, Japan)<br>Chemistry with Positrons: Insights from First-Principles Calculations into Positron-Molecule Interactions |
+| 10:15 | 10:40 | **Tatsuhiro Murakami** (Tokyo Metropolitan University, Japan)<br>Reaction Pathway Bifurcation in Molecular Dynamics: A Dynamical View Beyond Static Potential Energy Surfaces |
+| 10:40 | 11:00 | **Coffee Break (20 min.)** |
+
+### Oral Session 2
+
+Chair: **Masanori Tachikawa** (Yokohama City University, Japan)  
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 11:00 | 11:25 | **Seiji Mori** (Ibaraki University, Japan)<br>Theoretical Studies on Noncovalent Interactions in Homogeneous Catalysis |
+| 11:25 | 11:50 | **Jun Koseki** (AIST, Japan)<br>TBA |
+| 11:50 | 12:15 | **Yasuteru Shigeta** (University of Tsukuba, Japan)<br>Integrated computational chemistry methods for drug discovery and functional analysis of proteins |
+| 12:15 | 13:15 | **Lunch Break (60 min.)** |
+
+### Oral Session 3
+
+Chair: TBA
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 13:15 | 13:35 | **Kowit Hengphasatporn** (University of Tsukuba, Japan)<br>TBA |
+| 13:35 | 13:55 | **Duan Lian** (University of Tsukuba, Japan)<br>TBA |
+| 13:55 | 14:20 | **U. Deva Priyakumar** (International Institute of Information Technology Hyderabad, India)<br>TBA |
+| 14:20 | 14:40 | **Coffee Break (20 min.)** |
+
+### Oral Session 4
+
+Chair: TBA
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 14:40 | 15:00 | **Anupama Sharma** (University of Tsukuba, Japan)<br>TBA |
+| 15:00 | 15:25 | **Azusa Muraoka** (Japan Woman's University, Japan)<br>TBA |
+| 15:25 | 15:50 | **Kohki Oka** (Tohoku University, Japan)<br>Development of Organic Energy Materials |
+| 15:50 | 16:10 | **Coffee Break (20 min.)** |
+
+### Oral Session 5
+
+Chair: TBA
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 16:10 | 16:35 | **David S. Rivera Rocabado** (Osaka Metropolitan University, Japan)<br>Toward Interpretable Heterogeneous Catalyst Prediction and Design via AI-Driven Density of States Analysis |
+| 16:35 | 17:00 | **Szilagyi Robert** (University of British Columbia, Canada)<br>Chromium Chemistry for Energy Storage in N–H Bonds |
+| 17:00 | 17:25 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>TBA |
+
+### Closing Remarks
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 17:25 | 17:30 | **Closing remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
+
+### Poster Session &amp; Conference Mixer
+
+| Start | End   |         |
+| :---: | :---: | :------ |
+| 17:30 | 18:30 | **Poster session (posters with odd numbers)** |
+| 18:30 | 19:30 | **Poster session (posters with even numbers)** |
+| 19:30 | 21:00 | **Conference Mixer** |
+
 
 # Venue
 
