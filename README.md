@@ -87,8 +87,8 @@ Chair: TBA
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 17:30 | 18:30 | **Poster session (posters with odd numbers)** |
-| 18:30 | 19:30 | **Poster session (posters with even numbers)** |
+| 17:30 | 18:30 | **Poster session 1 (posters with odd numbers)** |
+| 18:30 | 19:30 | **Poster session 2 (posters with even numbers)** |
 | 19:30 | 21:00 | **Conference Mixer** |
 
 
