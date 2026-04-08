@@ -41,7 +41,7 @@ Chair: **Masanori Tachikawa** (Yokohama City University, Japan)
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 11:00 | 11:25 | **Seiji Mori** (Ibaraki University, Japan)<br>Theoretical Studies on Noncovalent Interactions in Homogeneous Catalysis |
-| 11:25 | 11:50 | **Jun Koseki** (AIST, Japan)<br>TBA |
+| 11:25 | 11:50 | **Jun Koseki** (AIST, Japan)<br>Computational Analysis of Molecular Structure and Function |
 | 11:50 | 12:15 | **Yasuteru Shigeta** (University of Tsukuba, Japan)<br>Integrated computational chemistry methods for drug discovery and functional analysis of proteins |
 | 12:15 | 13:15 | **Lunch Break (60 min.)** |
 
