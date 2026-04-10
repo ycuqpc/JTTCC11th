@@ -75,7 +75,7 @@ Chair: TBA
 | :---: | :---: | :------ |
 | 16:10 | 16:35 | **David S. Rivera Rocabado** (Osaka Metropolitan University, Japan)<br>Toward Interpretable Heterogeneous Catalyst Prediction and Design via AI-Driven Density of States Analysis |
 | 16:35 | 17:00 | **Szilagyi Robert** (University of British Columbia, Canada)<br>Chromium Chemistry for Energy Storage in N–H Bonds |
-| 17:00 | 17:25 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>TBA |
+| 17:00 | 17:25 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Single-benzene fluorophores: Compact Near-Infrared dye for biosensing and bioimaging |
 
 ### Closing Remarks
 
