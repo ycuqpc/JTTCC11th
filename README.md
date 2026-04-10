@@ -22,7 +22,7 @@ This schedule is still tentative. Details will be updated as soon as they are fi
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 9:30 | 9:40 | **Welcome to YCU**<br>by Prof. **Mitsunori Ikeguchi** (Yokohama City University, Japan) |
-| 9:40 | 9:50 | **Welcome to Workshop**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
+| 9:40 | 9:50 | **Welcome to JTTCC11 workshop**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
 
 ### Oral Session 1
 
@@ -53,7 +53,7 @@ Chair: TBA
 | :---: | :---: | :------ |
 | 13:15 | 13:35 | **Kowit Hengphasatporn** (University of Tsukuba, Japan)<br>TBA |
 | 13:35 | 13:55 | **Duan Lian** (University of Tsukuba, Japan)<br>TBA |
-| 13:55 | 14:20 | **U. Deva Priyakumar** (International Institute of Information Technology Hyderabad, India)<br>TBA |
+| 13:55 | 14:20 | **U. Deva Priyakumar** (International Institute of Information Technology Hyderabad, India)<br>Chemistry Language Models for Molecule and Material Design |
 | 14:20 | 14:40 | **Coffee Break (20 min.)** |
 
 ### Oral Session 4
