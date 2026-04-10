@@ -51,8 +51,8 @@ Chair: TBA
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 13:15 | 13:35 | **Kowit Hengphasatporn** (University of Tsukuba, Japan)<br>TBA |
-| 13:35 | 13:55 | **Duan Lian** (University of Tsukuba, Japan)<br>TBA |
+| 13:15 | 13:35 | **Kowit Hengphasatporn** (University of Tsukuba, Japan)<br>Click, Dock, Discover: Making Computational Drug Discovery Accessible |
+| 13:35 | 13:55 | **Lian Duan** (University of Tsukuba, Japan)<br>A Data-Driven Reaction Path Analysis Framework for Complex Enzymatic Reactions |
 | 13:55 | 14:20 | **U. Deva Priyakumar** (International Institute of Information Technology Hyderabad, India)<br>Chemistry Language Models for Molecule and Material Design |
 | 14:20 | 14:40 | **Coffee Break (20 min.)** |
 
@@ -62,8 +62,8 @@ Chair: TBA
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 14:40 | 15:00 | **Anupama Sharma** (University of Tsukuba, Japan)<br>TBA |
-| 15:00 | 15:25 | **Azusa Muraoka** (Japan Woman's University, Japan)<br>TBA |
+| 14:40 | 15:00 | **Anupama Sharma** (University of Tsukuba, Japan)<br>Mechanistic Insights into Carbon Nanotube Dispersion in Ionic Liquids: Role of the Cation |
+| 15:00 | 15:25 | **Azusa Muraoka** (Japan Woman's University, Japan)<br>NEXUS Activities at JWU for Advancing Research on High-Efficiency Photovoltaic Materials and Fostering Women Researchers |
 | 15:25 | 15:50 | **Kohki Oka** (Tohoku University, Japan)<br>Development of Organic Energy Materials |
 | 15:50 | 16:10 | **Coffee Break (20 min.)** |
 
