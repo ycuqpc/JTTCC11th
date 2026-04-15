@@ -84,6 +84,7 @@ Chair: TBA
 | 17:25 | 17:30 | **Closing remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
 
 ### Poster Session &amp; Conference Mixer
+The available space for the poster board is 112 cm (width) × 169 cm (height).
 
 | Start | End   |         |
 | :---: | :---: | :------ |
