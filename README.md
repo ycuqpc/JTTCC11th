@@ -92,6 +92,25 @@ Chair: TBA
 | 18:30 | 19:30 | **Poster session 2 (posters with even numbers)** |
 | 19:30 | 21:00 | **Conference Mixer** |
 
+- __Poster session 1__
+| Poster No. | Presenter | Title |
+| :-- | :--- | :---- |
+| P1 | Saho Kobayashi-Kajikawa | Perovskite Band Gap Prediction Using Explainable Machine Learning with ML-Generated Structural Features |
+| P3 | Hiroaki Oheda | Membrane Protein and Lipid Molecule Co-folding Improves Membrane-Protein Structure Prediction Accuracy |
+| P5 | Miya Matsuzaki | Electronic Structure Calculations on n-type Doping of Carbon Nanotubes Using Phosphine and Amine Molecules |
+| P7 | Masanari Natsume | Nuclear quantum effects on the free-energy landscape of the O-H+···π interaction in H3O+···acetylene complex studied by path-integral molecular dynamics simulation |
+| P9 | Hinano Koizumi | TBA |
+| P11 | Yachen Zhao | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
+
+- **Poster session 2**
+| Poster No. | Presenter | Title |
+| :-- | :--- | :---- |
+| P2 | Mebuki Fujitsuka | Multi-Component Density Functional Theory Study of Deuterium Isotope Effects in Caffeine Metabolism |
+| P4 | Nao Muramatsu | First-principles study on the electronic structures of 2D and 2D/3D hybrid organic-iroganic perovskites |
+| P6 | Daiki Takaku | TBA |
+| P8 | Ken Inoue | Synthesis and Fluorescent Properties of Natural Source Derived Carbon Quantum Dots |
+| P10 | Kie Araki | TBA |
+| P12 | Miu Ashiba | Theoretical Analysis of Positron Binding to Halogenated Hydrocarbons |
 
 # Venue
 
