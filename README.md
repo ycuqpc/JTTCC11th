@@ -92,7 +92,7 @@ Chair: TBA
 | 18:30 | 19:30 | **Poster session 2 (posters with even numbers)** |
 | 19:30 | 21:00 | **Conference Mixer** |
 
-- __Poster session 1__
+- **Poster session 1**
 
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
