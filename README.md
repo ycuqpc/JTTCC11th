@@ -92,7 +92,7 @@ Chair: TBA
 | 18:30 | 19:30 | **Poster session 2 (posters with even numbers)** |
 | 19:30 | 21:00 | **Conference Mixer** |
 
-- **Poster session 1**
+- **Poster Session 1**
 
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
@@ -103,7 +103,7 @@ Chair: TBA
 | P9 | Hinano Koizumi | TBA |
 | P11 | Yachen Zhao | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
 
-- **Poster session 2**
+- **Poster Session 2**
 
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
