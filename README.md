@@ -93,6 +93,7 @@ Chair: TBA
 | 19:30 | 21:00 | **Conference Mixer** |
 
 - __Poster session 1__
+
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
 | P1 | Saho Kobayashi-Kajikawa | Perovskite Band Gap Prediction Using Explainable Machine Learning with ML-Generated Structural Features |
@@ -103,6 +104,7 @@ Chair: TBA
 | P11 | Yachen Zhao | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
 
 - **Poster session 2**
+
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
 | P2 | Mebuki Fujitsuka | Multi-Component Density Functional Theory Study of Deuterium Isotope Effects in Caffeine Metabolism |
