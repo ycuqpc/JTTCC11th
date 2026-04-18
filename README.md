@@ -19,6 +19,7 @@ For oral presentations, the time allocation is as follows:
 - 25-minute presentation: 20 minutes for the talk, 4 minutes for Q&A, and 1 minute for transition.
 - 20-minute presentation: 16 minutes for the talk, 3 minutes for Q&A, and 1 minute for transition.
 <br>
+<br>
 This schedule is still tentative. Details will be updated as soon as they are fixed.<br>
 
 ### Opening Remarks
