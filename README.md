@@ -15,6 +15,10 @@ If you are an invited speaker, you do not have to use this registration form.
 
 <b>Saturday, April 25th, 2026</b><br>
 
+For oral presentations, the time allocation is as follows:
+- 25-minute presentation: 20 minutes for the talk, 4 minutes for Q&A, and 1 minute for transition.
+- 20-minute presentation: 16 minutes for the talk, 3 minutes for Q&A, and 1 minute for transition.
+<br>
 This schedule is still tentative. Details will be updated as soon as they are fixed.<br>
 
 ### Opening Remarks
@@ -84,7 +88,7 @@ Chair: TBA
 | 17:25 | 17:30 | **Closing remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
 
 ### Poster Session &amp; Conference Mixer
-**Note**: The available space for each poster board is 112 cm (width) × 169 cm (height). An A0-size poster (84 cm × 119 cm) is recommended.
+For the poster presentation, the available space for each poster board is 112 cm (width) × 169 cm (height). An A0-size poster (84 cm × 119 cm) is recommended.
 
 | Start | End   |         |
 | :---: | :---: | :------ |
@@ -96,23 +100,23 @@ Chair: TBA
 
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
-| P1 | Saho Kobayashi-Kajikawa | Perovskite Band Gap Prediction Using Explainable Machine Learning with ML-Generated Structural Features |
-| P3 | Hiroaki Oheda | Membrane Protein and Lipid Molecule Co-folding Improves Membrane-Protein Structure Prediction Accuracy |
-| P5 | Miya Matsuzaki | Electronic Structure Calculations on n-type Doping of Carbon Nanotubes Using Phosphine and Amine Molecules |
-| P7 | Masanari Natsume | Nuclear quantum effects on the free-energy landscape of the O-H+···π interaction in H3O+···acetylene complex studied by path-integral molecular dynamics simulation |
-| P9 | Hinano Koizumi | TBA |
-| P11 | Yachen Zhao | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
+| P1 | **Saho Kobayashi-Kajikawa** | Perovskite Band Gap Prediction Using Explainable Machine Learning with ML-Generated Structural Features |
+| P3 | **Hiroaki Oheda** | Membrane Protein and Lipid Molecule Co-folding Improves Membrane-Protein Structure Prediction Accuracy |
+| P5 | **Miya Matsuzaki** | Electronic Structure Calculations on n-type Doping of Carbon Nanotubes Using Phosphine and Amine Molecules |
+| P7 | **Masanari Natsume** | Nuclear quantum effects on the free-energy landscape of the O-H+···π interaction in H3O+···acetylene complex studied by path-integral molecular dynamics simulation |
+| P9 | **Hinano Koizumi** | TBA |
+| P11 | **Yachen Zhao** | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
 
 - **Poster Session 2**
 
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
-| P2 | Mebuki Fujitsuka | Multi-Component Density Functional Theory Study of Deuterium Isotope Effects in Caffeine Metabolism |
-| P4 | Nao Muramatsu | First-principles study on the electronic structures of 2D and 2D/3D hybrid organic-iroganic perovskites |
-| P6 | Daiki Takaku | TBA |
-| P8 | Ken Inoue | Synthesis and Fluorescent Properties of Natural Source Derived Carbon Quantum Dots |
-| P10 | Kie Araki | TBA |
-| P12 | Miu Ashiba | Theoretical Analysis of Positron Binding to Halogenated Hydrocarbons |
+| P2 | **Mebuki Fujitsuka** | Multi-Component Density Functional Theory Study of Deuterium Isotope Effects in Caffeine Metabolism |
+| P4 | **Nao Muramatsu** | First-principles study on the electronic structures of 2D and 2D/3D hybrid organic-iroganic perovskites |
+| P6 | **Daiki Takaku** | TBA |
+| P8 | **Ken Inoue** | Synthesis and Fluorescent Properties of Natural Source Derived Carbon Quantum Dots |
+| P10 | **Kie Araki** | TBA |
+| P12 | **Miu Ashiba** | Theoretical Analysis of Positron Binding to Halogenated Hydrocarbons |
 
 # Venue
 
