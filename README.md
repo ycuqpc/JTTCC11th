@@ -1,4 +1,4 @@
-<b>The 11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026 (JTTCC11)</b> will be held on <b>April 25, 2026</b> in an in-person form, at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There will be oral and poster sessions. Oral presentations will be given by invited speakers (we will accept no contributed talks), however, <b>[we are now calling for poster presenters](https://ycuqpc.github.io/JTTCC11th/#registration)</b>. We look forward to productive discussions.
+<b>The 11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026 (JTTCC11)</b> will be held on <b>April 25, 2026</b> in an in-person form, at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There will be oral and poster sessions. Oral presentations will be given by invited speakers (we will accept no contributed talks), and contributed poster presentations will be given by young researchers, especially by graduate students. We look forward to productive discussions.
 
 
 # Registration
@@ -6,22 +6,18 @@
 Registration fees: Free<br>
 If you will join the conference mixer (with a light meal and drinks), a participation fee 3,000 JPY will be applied to a non-student participant (student: free).<br>
 
-Please fill out this <b>[registration form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Zm1jvv7LuEGJXO5cvYvHVc-tcGV_kUpJmdA27Dig3FpUMjlEWDFQQVhaTkIzQUkwTDc1S1g1QzRNSi4u)</b> by <b>April 15, 2026</b>.<br>
-
-If you are an invited speaker, you do not have to use this registration form.
+<b>Resistration as a contributed poster presenter is closed (April 15, 2026).</b> Thank you for your submission. We still accept your <b>[registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Zm1jvv7LuEGJXO5cvYvHVc-tcGV_kUpJmdA27Dig3FpUMjlEWDFQQVhaTkIzQUkwTDc1S1g1QzRNSi4u)</b> as a participant. If you are an invited speaker, you do not have to use this registration form.
 
 
 # Program
-
-<b>Saturday, April 25th, 2026</b><br>
 
 For oral presentations, the time allocation is as follows:
 - 25-minute presentation: 20 minutes for the talk, 4 minutes for Q&A, and 1 minute for transition.
 - 20-minute presentation: 16 minutes for the talk, 3 minutes for Q&A, and 1 minute for transition.
 
 <br>
+<b>Saturday, April 25th, 2026</b><br>
 <br>
-This schedule is still tentative. Details will be updated as soon as they are fixed.<br>
 
 ### Opening Remarks
 
@@ -32,7 +28,7 @@ This schedule is still tentative. Details will be updated as soon as they are fi
 
 ### Oral Session 1
 
-Chair: TBA
+Chair: **Yukiumi Kita** (Yokohama City University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
@@ -53,7 +49,7 @@ Chair: **Masanori Tachikawa** (Yokohama City University, Japan)
 
 ### Oral Session 3
 
-Chair: TBA
+Chair: **Makito Takagi** (Yokohama City University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
@@ -64,7 +60,7 @@ Chair: TBA
 
 ### Oral Session 4
 
-Chair: TBA
+Chair: **Kenichiro Saita** (Yokohama City University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
@@ -75,12 +71,12 @@ Chair: TBA
 
 ### Oral Session 5
 
-Chair: TBA
+Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 16:10 | 16:35 | **David S. Rivera Rocabado** (Osaka Metropolitan University, Japan)<br>Toward Interpretable Heterogeneous Catalyst Prediction and Design via AI-Driven Density of States Analysis |
-| 16:35 | 17:00 | **Szilagyi Robert** (University of British Columbia, Canada)<br>Chromium Chemistry for Energy Storage in N–H Bonds |
+| 16:35 | 17:00 | **Robert Szilagyi** (University of British Columbia, Canada)<br>Chromium Chemistry for Energy Storage in N–H Bonds |
 | 17:00 | 17:25 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Single-benzene fluorophores: Compact Near-Infrared dye for biosensing and bioimaging |
 
 ### Closing Remarks
@@ -90,13 +86,16 @@ Chair: TBA
 | 17:25 | 17:30 | **Closing remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
 
 ### Poster Session &amp; Conference Mixer
-For the poster presentation, the available space for each poster board is 112 cm (width) × 169 cm (height). An A0-size poster (84 cm × 119 cm) is recommended.
 
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 17:30 | 18:30 | **Poster session 1 (posters with odd numbers)** |
 | 18:30 | 19:30 | **Poster session 2 (posters with even numbers)** |
 | 19:30 | 21:00 | **Conference Mixer** |
+
+<br>
+For the poster presentation, the available space for each poster board is 112 cm (width) &times; 169 cm (height). An A0-size poster (84 cm &times; 119 cm) is recommended.<br>
+<br>
 
 - **Poster Session 1**
 
@@ -105,7 +104,7 @@ For the poster presentation, the available space for each poster board is 112 cm
 | P1 | **Saho Kobayashi-Kajikawa** | Perovskite Band Gap Prediction Using Explainable Machine Learning with ML-Generated Structural Features |
 | P3 | **Hiroaki Oheda** | Membrane Protein and Lipid Molecule Co-folding Improves Membrane-Protein Structure Prediction Accuracy |
 | P5 | **Miya Matsuzaki** | Electronic Structure Calculations on n-type Doping of Carbon Nanotubes Using Phosphine and Amine Molecules |
-| P7 | **Masanari Natsume** | Nuclear quantum effects on the free-energy landscape of the O-H+···π interaction in H3O+···acetylene complex studied by path-integral molecular dynamics simulation |
+| P7 | **Masanari Natsume** | Nuclear quantum effects on the free-energy landscape of the O-H<sup>+</sup>&middot;&middot;&middot;&pi; interaction in H<sub>3</sub>O<sup>+</sup>&middot;&middot;&middot;acetylene complex studied by path-integral molecular dynamics simulation |
 | P9 | **Hinano Koizumi** | TBA |
 | P11 | **Yachen Zhao** | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
 
