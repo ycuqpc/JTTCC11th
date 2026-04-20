@@ -89,9 +89,9 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 17:30 | 18:30 | **Poster session 1 (posters with odd numbers)** |
-| 18:30 | 19:30 | **Poster session 2 (posters with even numbers)** |
-| 19:30 | 21:00 | **Conference Mixer** |
+| 17:30 | 18:15 | **Poster session 1 (posters with odd numbers)** |
+| 18:15 | 19:00 | **Poster session 2 (posters with even numbers)** |
+| 19:00 | 21:00 | **Conference Mixer** |
 
 <br>
 For the poster presentation, the available space for each poster board is 112 cm (width) &times; 169 cm (height). An A0-size poster (84 cm &times; 119 cm) is recommended.<br>
