@@ -44,7 +44,7 @@ Chair: **Masanori Tachikawa** (Yokohama City University, Japan)
 | :---: | :---: | :------ |
 | 11:00 | 11:25 | **Seiji Mori** (Ibaraki University, Japan)<br>Theoretical Studies on Noncovalent Interactions in Homogeneous Catalysis |
 | 11:25 | 11:50 | **Jun Koseki** (AIST, Japan)<br>Computational Analysis of Molecular Structure and Function |
-| 11:50 | 12:15 | **Yasuteru Shigeta** (University of Tsukuba, Japan)<br>Integrated computational chemistry methods for drug discovery and functional analysis of proteins |
+| 11:50 | 12:15 | **David S. Rivera Rocabado** (Osaka Metropolitan University, Japan)<br>Toward Interpretable Heterogeneous Catalyst Prediction and Design via AI-Driven Density of States Analysis |
 | 12:15 | 13:15 | **Lunch Break (60 min.)** |
 
 ### Oral Session 3
@@ -75,7 +75,7 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 16:10 | 16:35 | **David S. Rivera Rocabado** (Osaka Metropolitan University, Japan)<br>Toward Interpretable Heterogeneous Catalyst Prediction and Design via AI-Driven Density of States Analysis |
+| 16:10 | 16:35 | **Yasuteru Shigeta** (University of Tsukuba, Japan)<br>Integrated computational chemistry methods for drug discovery and functional analysis of proteins |
 | 16:35 | 17:00 | **Robert Szilagyi** (University of British Columbia, Canada)<br>Chromium Chemistry for Energy Storage in N–H Bonds |
 | 17:00 | 17:25 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Single-benzene fluorophores: Compact Near-Infrared dye for biosensing and bioimaging |
 
