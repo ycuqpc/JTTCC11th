@@ -107,17 +107,19 @@ For the poster presentation, the available space for each poster board is 112 cm
 | P7 | **Masanari Natsume** | Nuclear quantum effects on the free-energy landscape of the O-H<sup>+</sup>&middot;&middot;&middot;&pi; interaction in H<sub>3</sub>O<sup>+</sup>&middot;&middot;&middot;acetylene complex studied by path-integral molecular dynamics simulation |
 | P9 | **Hinano Koizumi** | TBA |
 | P11 | **Yachen Zhao** | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
+| P13 | **Ayama Tokuyasu** | TBA |
 
 - **Poster Session 2**
 
 | Poster No. | Presenter | Title |
 | :-- | :--- | :---- |
 | P2 | **Mebuki Fujitsuka** | Multi-Component Density Functional Theory Study of Deuterium Isotope Effects in Caffeine Metabolism |
-| P4 | **Nao Muramatsu** | First-principles study on the electronic structures of 2D and 2D/3D hybrid organic-iroganic perovskites |
+| P4 | **Nao Muramatsu** | First-principles study on the electronic structures of 2D and 2D/3D hybrid organic-inoganic perovskites |
 | P6 | **Daiki Takaku** | TBA |
 | P8 | **Ken Inoue** | Synthesis and Fluorescent Properties of Natural Source Derived Carbon Quantum Dots |
 | P10 | **Kie Araki** | TBA |
 | P12 | **Miu Ashiba** | Theoretical Analysis of Positron Binding to Halogenated Hydrocarbons |
+| P14 | **Kai Travis** | TBA |
 
 # Venue
 
