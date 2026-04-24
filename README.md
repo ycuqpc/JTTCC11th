@@ -99,27 +99,27 @@ For the poster presentation, the available space for each poster board is 112 cm
 
 - **Poster Session 1**
 
-| Poster No. | Presenter | Title |
-| :-- | :--- | :---- |
-| P1 | **Saho Kobayashi-Kajikawa** | Perovskite Band Gap Prediction Using Explainable Machine Learning with ML-Generated Structural Features |
-| P3 | **Hiroaki Oheda** | Membrane Protein and Lipid Molecule Co-folding Improves Membrane-Protein Structure Prediction Accuracy |
-| P5 | **Miya Matsuzaki** | Electronic Structure Calculations on n-type Doping of Carbon Nanotubes Using Phosphine and Amine Molecules |
-| P7 | **Masanari Natsume** | Nuclear quantum effects on the free-energy landscape of the O-H<sup>+</sup>&middot;&middot;&middot;&pi; interaction in H<sub>3</sub>O<sup>+</sup>&middot;&middot;&middot;acetylene complex studied by path-integral molecular dynamics simulation |
-| P9 | **Hinano Koizumi** | TBA |
-| P11 | **Yachen Zhao** | Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
-| P13 | **Ayama Tokuyasu** | TBA |
+| Poster No. |  |
+| :---: | :---- |
+| P1 | **Saho Kobayashi-Kajikawa** (Japan Women's University, Japan)<br>Perovskite Band Gap Prediction Using Explainable Machine Learning with ML-Generated Structural Features |
+| P3 | **Hiroaki Oheda** (Yokohama City University, Japan)<br>Membrane Protein and Lipid Molecule Co-folding Improves Membrane-Protein Structure Prediction Accuracy |
+| P5 | **Miya Matsuzaki** (Japan Women's University, Japan)<br>Electronic Structure Calculations on n-type Doping of Carbon Nanotubes Using Phosphine and Amine Molecules |
+| P7 | **Masanari Natsume** (Yokohama City University, Japan)<br>Nuclear quantum effects on the free-energy landscape of the O-H<sup>+</sup>&middot;&middot;&middot;&pi; interaction in H<sub>3</sub>O<sup>+</sup>&middot;&middot;&middot;acetylene complex studied by path-integral molecular dynamics simulation |
+| P9 | **Hinano Koizumi** (Yokohama City University, Japan)<br>Phase Space Analysis of EEG in Epilepsy Patients and Correlation with Clinical Status |
+| P11 | **Yachen Zhao** (Yokohama City University, Japan)<br>Composition-dependent band gaps of InGaN: Investigating lattice optimization and screened energy corrections |
+| P13 | **Ayama Tokuyasu** (Yokohama City University, Japan)<br>Direct physical measurement of intracellular dynamics using magnetic tweezers |
 
 - **Poster Session 2**
 
-| Poster No. | Presenter | Title |
-| :-- | :--- | :---- |
-| P2 | **Mebuki Fujitsuka** | Multi-Component Density Functional Theory Study of Deuterium Isotope Effects in Caffeine Metabolism |
-| P4 | **Nao Muramatsu** | First-principles study on the electronic structures of 2D and 2D/3D hybrid organic-inoganic perovskites |
-| P6 | **Daiki Takaku** | TBA |
-| P8 | **Ken Inoue** | Synthesis and Fluorescent Properties of Natural Source Derived Carbon Quantum Dots |
-| P10 | **Kie Araki** | TBA |
-| P12 | **Miu Ashiba** | Theoretical Analysis of Positron Binding to Halogenated Hydrocarbons |
-| P14 | **Kai Travis** | TBA |
+| Poster No. |  |
+| :---: | :---- |
+| P2 | **Mebuki Fujitsuka** (Gifu University, Japan)<br>Multi-Component Density Functional Theory Study of Deuterium Isotope Effects in Caffeine Metabolism |
+| P4 | **Nao Muramatsu** (Japan Women's University, Japan)<br>First-principles study on the electronic structures of 2D and 2D/3D hybrid organic-inoganic perovskites |
+| P6 | **Daiki Takaku** (Yokohama City University, Japan)<br>Mechanical stability and plasticity of protein crystals through cross-linking |
+| P8 | **Ken Inoue** (Yokohama City University, Japan)<br>Synthesis and Fluorescent Properties of Natural Source Derived Carbon Quantum Dots |
+| P10 | **Kie Araki** (Japan Women's University, Japan)<br>Molecular Dynamics Study of Ligand Recognition in the Taste Receptor T1r2a–T1r3 |
+| P12 | **Miu Ashiba** (Yokohama City University, Japan)<br>Theoretical Analysis of Positron Binding to Halogenated Hydrocarbons |
+| P14 | **Kai Travis** (Yokohama City University, Japan)<br>Image-based AI toxicity prediction using human hepatocyte spheroids |
 
 # Venue
 
