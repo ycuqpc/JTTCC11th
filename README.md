@@ -1,12 +1,14 @@
-<b>The 11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026 (JTTCC11)</b> will be held on <b>April 25, 2026</b> in an in-person form, at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There will be oral and poster sessions. Oral presentations will be given by invited speakers (we will accept no contributed talks), and contributed poster presentations will be given by young researchers, especially by graduate students. We look forward to productive discussions.
+<b>The 11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026 (JTTCC11)</b> is held on <b>April 25, 2026</b> in an in-person form, at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aims to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There are oral and poster sessions. Oral presentations are given by invited speakers (we will accept no contributed talks), and contributed poster presentations are given by young researchers, especially by graduate students. 
 
 
 # Registration
 
-Registration fees: Free<br>
+<b>Registration fees: Free</b><br>
 If you will join the conference mixer (with a light meal and drinks), a participation fee 3,000 JPY will be applied to a non-student participant (student: free).<br>
 
-<b>Resistration as a contributed poster presenter is closed (April 15, 2026).</b> Thank you for your submission. We still accept your <b>[registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Zm1jvv7LuEGJXO5cvYvHVc-tcGV_kUpJmdA27Dig3FpUMjlEWDFQQVhaTkIzQUkwTDc1S1g1QzRNSi4u)</b> as a participant. If you are an invited speaker, you do not have to use this registration form.
+Resistration as a contributed poster presenter is closed (April 15, 2026).<br>
+Online registration is closed (April 24, 2026).<br>
+Thank you for your submission. 
 
 
 # Program
@@ -23,8 +25,8 @@ For oral presentations, the time allocation is as follows:
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 9:30 | 9:40 | **Welcome to YCU**<br>by Prof. **Mitsunori Ikeguchi** (Yokohama City University, Japan) |
-| 9:40 | 9:50 | **Welcome to JTTCC11 workshop**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
+| 9:30 | 9:40 | **Welcome to YCU**<br>by **Mitsunori Ikeguchi** (Vice president, Professor of Graduate School of Medical Life Science, Yokohama City University, Japan) |
+| 9:40 | 9:50 | **Welcome to JTTCC11 workshop**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
 
 ### Oral Session 1
 
@@ -83,7 +85,7 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 
 | Start | End   |         |
 | :---: | :---: | :------ |
-| 17:25 | 17:30 | **Closing remarks**<br>by Prof. **Masanori Tachikawa** (Yokohama City University, Japan) |
+| 17:25 | 17:30 | **Closing remarks**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
 
 ### Poster Session &amp; Conference Mixer
 
