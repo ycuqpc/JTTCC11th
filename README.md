@@ -1,19 +1,21 @@
 <b>The 11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026 (JTTCC11)</b> was successfully held on <b>April 25, 2026</b> in an in-person form, at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aimed to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There were oral and poster sessions. Oral presentations were given by invited speakers, and contributed poster presentations were given by young researchers, especially by graduate students. Thank you very much for your participation. 
 
 <br>
-<img src="./JTTCC11_groupphoto_20260425_1.jpg">
+<img src="./JTTCC11_groupphoto_20260425_1.jpg"><br>
 <br>
 
 # Registration
 
-<b>This event is a past event. Thank you for your participation.</b>
+<b>This event is a past event. Thank you for your participation.</b><br>
 
-<s><b>Registration fees: Free</b></s><br>
-<s>If you will join the conference mixer (with a light meal and drinks), a participation fee 3,000 JPY will be applied to a non-student participant (student: free).</s><br>
+<s>
+<b>Registration fees: Free</b><br>
+If you will join the conference mixer (with a light meal and drinks), a participation fee 3,000 JPY will be applied to a non-student participant (student: free).<br>
 
-<s>Resistration as a contributed poster presenter is closed (April 15, 2026).</s><br>
-<s>Online registration is closed (April 24, 2026).</s><br>
-<s>Thank you for your submission.</s> 
+Resistration as a contributed poster presenter is closed (April 15, 2026).<br>
+Online registration is closed (April 24, 2026).<br>
+Thank you for your submission.
+</s> 
 
 <br>
 
