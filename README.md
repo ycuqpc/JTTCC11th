@@ -136,12 +136,12 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 | 19:00 | 21:00 | **Conference Mixer** |
 
 <div style="text-align:left;">
-  <img src="./mixer01.jpg" style="width:30%;">
-  <img src="./mixer02.jpg" style="width:30%;">
+  <img src="./mixer01.jpg" style="width:30%; margin-bottom: 20px;">
+  <img src="./mixer02.jpg" style="width:30%; margin-bottom: 20px;">
 <br>
-  <img src="./mixer04.jpg" style="width:30%;">
-  <img src="./mixer05.jpg" style="width:30%;">
-  <img src="./mixer06.jpg" style="width:30%;">
+  <img src="./mixer04.jpg" style="width:30%; margin-bottom: 20px;">
+  <img src="./mixer05.jpg" style="width:30%; margin-bottom: 20px;">
+  <img src="./mixer06.jpg" style="width:30%; margin-bottom: 20px;">
 </div>
 <br>
 
