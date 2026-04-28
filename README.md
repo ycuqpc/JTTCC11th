@@ -138,8 +138,7 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 <div style="text-align:left;">
   <img src="./mixer01.jpg" style="width:30%;">
   <img src="./mixer02.jpg" style="width:30%;">
-</div>
-<div style="text-align:left;">
+<br>
   <img src="./mixer04.jpg" style="width:30%;">
   <img src="./mixer05.jpg" style="width:30%;">
   <img src="./mixer06.jpg" style="width:30%;">
