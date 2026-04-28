@@ -36,8 +36,8 @@ Thank you for your submission.
 | 9:40 | 9:50 | **Welcome to JTTCC11 workshop**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
 
 <div style="text-align:left;">
-  <img src="./ikeguchi.jpg" style="width:33%;">
-  <img src="./tachikawa.jpg" style="width:33%;">
+  <img src="./ikeguchi.jpg" style="width:30%;">
+  <img src="./tachikawa.jpg" style="width:30%;">
 </div>
 <br>
 
@@ -52,8 +52,8 @@ Chair: **Yukiumi Kita** (Yokohama City University, Japan)
 | 10:40 | 11:00 | **Coffee Break (20 min.)** |
 
 <div style="text-align:left;">
-  <img src="./yoshida.jpg" style="width:33%;">
-  <img src="./murakami.jpg" style="width:33%;">
+  <img src="./yoshida.jpg" style="width:30%;">
+  <img src="./murakami.jpg" style="width:30%;">
 </div>
 <br>
 
@@ -69,9 +69,9 @@ Chair: **Masanori Tachikawa** (Yokohama City University, Japan)
 | 12:15 | 13:15 | **Lunch Break (60 min.)** |
 
 <div style="text-align:left;">
-  <img src="./mori.jpg" style="width:33%;">
-  <img src="./koseki.jpg" style="width:33%;">
-  <img src="./rocabado.jpg" style="width:33%;">
+  <img src="./mori.jpg" style="width:30%;">
+  <img src="./koseki.jpg" style="width:30%;">
+  <img src="./rocabado.jpg" style="width:30%;">
 </div>
 <br>
 
@@ -87,9 +87,9 @@ Chair: **Makito Takagi** (Yokohama City University, Japan)
 | 14:20 | 14:40 | **Coffee Break (20 min.)** |
 
 <div style="text-align:left;">
-  <img src="./kowit.jpg" style="width:33%;">
-  <img src="./duan.jpg" style="width:33%;">
-  <img src="./priyakumar.jpg" style="width:33%;">
+  <img src="./kowit.jpg" style="width:30%;">
+  <img src="./duan.jpg" style="width:30%;">
+  <img src="./priyakumar.jpg" style="width:30%;">
 </div>
 <br>
 
@@ -115,9 +115,9 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 | 17:00 | 17:25 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Single-benzene fluorophores: Compact Near-Infrared dye for biosensing and bioimaging |
 
 <div style="text-align:left;">
-  <img src="./shigeta.jpg" style="width:33%;">
-  <img src="./szilagyi.jpg" style="width:33%;">
-  <img src="./nawee.jpg" style="width:33%;">
+  <img src="./shigeta.jpg" style="width:30%;">
+  <img src="./szilagyi.jpg" style="width:30%;">
+  <img src="./nawee.jpg" style="width:30%;">
 </div>
 <br>
 
@@ -136,13 +136,13 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 | 19:00 | 21:00 | **Conference Mixer** |
 
 <div style="text-align:left;">
-  <img src="./mixer01.jpg" style="width:33%;">
-  <img src="./mixer02.jpg" style="width:33%;">
+  <img src="./mixer01.jpg" style="width:30%;">
+  <img src="./mixer02.jpg" style="width:30%;">
 </div>
 <div style="text-align:left;">
-  <img src="./mixer04.jpg" style="width:33%;">
-  <img src="./mixer05.jpg" style="width:33%;">
-  <img src="./mixer06.jpg" style="width:33%;">
+  <img src="./mixer04.jpg" style="width:30%;">
+  <img src="./mixer05.jpg" style="width:30%;">
+  <img src="./mixer06.jpg" style="width:30%;">
 </div>
 <br>
 
