@@ -1,7 +1,7 @@
 <b>The 11th Japan-Thai workshop on Theoretical and Computational Chemistry 2026 (JTTCC11)</b> was successfully held on <b>April 25, 2026</b> in an in-person form, at Yokohama City University (Kanazawa-Hakkei Campus), Yokohama, Japan. This workshop aimed to promote international exchange of researchers and students in quantum chemistry between Japan and the Kingdom of Thailand. There were oral and poster sessions. Oral presentations were given by invited speakers, and contributed poster presentations were given by young researchers, especially by graduate students. Thank you very much for your participation. 
 
 <br>
-<div style="text-align:center;">
+<div style="text-align:left;">
   <img src="./JTTCC11_groupphoto_20260425_1.jpg" style="width:100%;">
 </div>
 <br><br>
@@ -35,7 +35,7 @@ Thank you for your submission.
 | 9:30 | 9:40 | **Welcome to YCU**<br>by **Mitsunori Ikeguchi** (Vice president, Professor of Graduate School of Medical Life Science, Yokohama City University, Japan) |
 | 9:40 | 9:50 | **Welcome to JTTCC11 workshop**<br>by **Masanori Tachikawa** (Dean and Professor of Graduate School of NanoBioScience, Yokohama City University, Japan) |
 
-<div style="text-align:center;">
+<div style="text-align:left;">
   <img src="./ikeguchi.jpg" style="width:30%;">
 </div>
 <br>
@@ -72,7 +72,7 @@ Chair: **Makito Takagi** (Yokohama City University, Japan)
 | 13:55 | 14:20 | **U. Deva Priyakumar** (International Institute of Information Technology Hyderabad, India)<br>Chemistry Language Models for Molecule and Material Design |
 | 14:20 | 14:40 | **Coffee Break (20 min.)** |
 
-<div style="text-align:center;">
+<div style="text-align:left;">
   <img src="./kowit.jpg" style="width:30%;">
   <img src="./duan.jpg" style="width:30%;">
   <img src="./priyakumar.jpg" style="width:30%;">
@@ -100,7 +100,7 @@ Chair: **Tomomi Shimazaki** (Yokohama City University, Japan)
 | 16:35 | 17:00 | **Robert Szilagyi** (University of British Columbia, Canada)<br>Chromium Chemistry for Energy Storage in N–H Bonds |
 | 17:00 | 17:25 | **Nawee Kungwan** (Chiang Mai University, Thailand)<br>Single-benzene fluorophores: Compact Near-Infrared dye for biosensing and bioimaging |
 
-<div style="text-align:center;">
+<div style="text-align:left;">
   <img src="./shigeta.jpg" style="width:30%;">
   <img src="./szilagyi.jpg" style="width:30%;">
   <img src="./nawee.jpg" style="width:30%;">
