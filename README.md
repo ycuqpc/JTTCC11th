@@ -37,6 +37,7 @@ Thank you for your submission.
 
 <div style="text-align:left;">
   <img src="./ikeguchi.jpg" style="width:30%;">
+  <img src="./tachikawa.jpg" style="width:30%;">
 </div>
 <br>
 
@@ -50,6 +51,12 @@ Chair: **Yukiumi Kita** (Yokohama City University, Japan)
 | 10:15 | 10:40 | **Tatsuhiro Murakami** (Tokyo Metropolitan University, Japan)<br>Reaction Pathway Bifurcation in Molecular Dynamics: A Dynamical View Beyond Static Potential Energy Surfaces |
 | 10:40 | 11:00 | **Coffee Break (20 min.)** |
 
+<div style="text-align:left;">
+  <img src="./yoshida.jpg" style="width:30%;">
+  <img src="./murakami.jpg" style="width:30%;">
+</div>
+<br>
+
 ### Oral Session 2
 
 Chair: **Masanori Tachikawa** (Yokohama City University, Japan)  
@@ -60,6 +67,13 @@ Chair: **Masanori Tachikawa** (Yokohama City University, Japan)
 | 11:25 | 11:50 | **Jun Koseki** (AIST, Japan)<br>Computational Analysis of Molecular Structure and Function |
 | 11:50 | 12:15 | **David S. Rivera Rocabado** (Osaka Metropolitan University, Japan)<br>Toward Interpretable Heterogeneous Catalyst Prediction and Design via AI-Driven Density of States Analysis |
 | 12:15 | 13:15 | **Lunch Break (60 min.)** |
+
+<div style="text-align:left;">
+  <img src="./mori.jpg" style="width:30%;">
+  <img src="./koseki.jpg" style="width:30%;">
+  <img src="./rocabado.jpg" style="width:30%;">
+</div>
+<br>
 
 ### Oral Session 3
 
